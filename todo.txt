@@ -1,0 +1,30 @@
+- articles
+- photographs
+- bio, linkedin, github
+- career
+- book review
+- disclaimer
+- layouts
+
+
+- code highlight
+- mermaid
+- search
+- drafts
+- footnotes
+- seo
+- sitemap
+- robots.txt
+- quote markdown css
+
+## reference
+
+- berkshirehathaway.com
+- mnmlst blog
+- minimal mistakes theme webpage
+
+<blog>
+State intervention makes things worse
+Price as a signal
+Donald Trump 2020 election
+Does laws of economics applies to animals? Cheetah, rats etc;
