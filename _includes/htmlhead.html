@@ -23,7 +23,27 @@
           padding: 0
           10px
       }
-  
+      
+      hr {
+          margin: auto;
+          text-align: center; /* horizontal centering */
+          border:0;
+      }
+
+      hr:after {
+        text-align: center;
+        margin: auto;
+        display:contents;
+        content: "*******"; /* section sign */
+      }
+      a:link {
+         color: #967e51;
+      }
+      /* mouse over link */
+      a:hover {
+          color: #000;
+      }
+
       h1, h2, h3 {
           line-height: 1.2
       }
