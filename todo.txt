@@ -6,7 +6,7 @@
 - disclaimer
 - layouts
 
-
+- 404 page
 - code highlight
 - mermaid
 - search
@@ -123,7 +123,51 @@ mynumber: 5
 ## Config 
 
 - Outer directory consists: _config.yml, index.html, 404.html
-- 
+
+- The defaults key holds an array of scope/values pairs that define what defaults should be set for a particular file path, and optionally, a file type in that path.
+
+- You can override defaults in frontmatter
+```
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+```
+```
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+```
+```
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "my-site"
+  -
+    scope:
+      path: "projects"
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "project" # overrides previous default layout
+      author: "Mr. Hyde"
+```
+
+## Directory structure
+
+- _includes: fragments like header,footer
+- _layout: page layout like blog, default
+- assets : css,js,images
+- index.html and 404 page
+
 
 
 
