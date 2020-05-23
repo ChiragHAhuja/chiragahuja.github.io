@@ -23,7 +23,11 @@
 - berkshirehathaway.com
 - mnmlst blog
 - minimal mistakes theme webpage
-
+- tsowell.com
+- http://marcelatl.com/meat/
+- https://jonathanjanssens.com/posts/jekyll-inline-css/
+- https://yakczar.com/books/
+- bettermotherfuckingwebsite.com
 ## repo structure
 
 - default.html
