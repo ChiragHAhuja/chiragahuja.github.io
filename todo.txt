@@ -23,6 +23,12 @@
 - mnmlst blog
 - minimal mistakes theme webpage
 
+## repo structure
+
+- default.html
+- pages: homepage.html, articles.html, 
+- posts
+
 <blog>
 State intervention makes things worse
 Price as a signal
