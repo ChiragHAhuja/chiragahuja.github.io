@@ -16,6 +16,7 @@
 - sitemap
 - robots.txt
 - quote markdown css
+- change permalink to pretty config.yaml
 
 ## reference
 
@@ -34,3 +35,96 @@ State intervention makes things worse
 Price as a signal
 Donald Trump 2020 election
 Does laws of economics applies to animals? Cheetah, rats etc;
+Getting paid to work out
+
+
+# Jekyll Notes
+
+## Build a website
+
+Create index.html with following contents.
+
+```
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+</html>
+```
+
+Thats it. website is done.
+
+## Algo for a page
+
+- add a page to pages folder
+	- use layout/yamlfrontmatter > md/html
+	- layout: default/home/bloglist/blog/projects/cv
+
+- add a link to index.html/anyother page
+- thats it
+
+## Algo for a post
+
+- add a 0000-00-00-title.md file to pages folder
+- set yaml matter to layout, published, date, title etc. when done date it and true publish
+- thats it
+
+## Liquid Templates
+
+- objects, tags and filters
+
+- objects: tell liquid where to output content. surrounded by {{ }}
+
+	   - {{ page.title }}
+	   - outputs variable page.title on the page
+
+- tags: for logic and flow control. surrounded by {% %}
+
+	{% if page.show_sidebar %}
+  		<div class="sidebar">
+   		 sidebar content
+  		</div>
+	{% endif %}
+
+	- Outputs the sidebar if page.show_sidebar is true
+	- All tags https://jekyllrb.com/docs/liquid/tags/
+
+- filters : change the output of liquid objects
+
+	{{ "hi" | capitalize }}
+
+	Outputs Hi
+
+## YAML frontmatter
+
+---
+title: Home
+layout: blog
+published: false
+date: 0000-00-00
+mynumber: 5
+---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" | downcase }}</h1>
+  </body>
+</html>
+
+## Config 
+
+- Outer directory consists: _config.yml, index.html, 404.html
+- 
+
+
+
+	
