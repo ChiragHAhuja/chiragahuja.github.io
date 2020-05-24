@@ -58,3 +58,5 @@ Below is a table.
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
+
+***
