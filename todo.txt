@@ -108,8 +108,8 @@ Thats it. website is done.
 
 ---
 title: Home
-layout: blog
 published: false
+layout: blog
 date: 0000-00-00
 mynumber: 5
 ---

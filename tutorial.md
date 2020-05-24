@@ -4,11 +4,13 @@ layout: default
 permalink: /tutorial
 ---
 # Kramdown tutorial
+> "This is a quote"<br>
+> "Time truly is the greatest enemy"
 
 Some kramdown snippets for reference.
 
 ## This is H2
-> "This is a quote"
+
 
 This is `code`.
 
