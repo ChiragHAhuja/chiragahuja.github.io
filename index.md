@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Index | chirag.ahuja 
 layout: default
 ---
 
@@ -11,6 +11,7 @@ layout: default
 <br>
 
 * [ARTICLES](../articles)
-* [BOOK REVIEWS](../articles)
-* [CAREER](../articles)
-* [PHOTOS](../articles)
+* [BOOK REVIEWS](../bookreviews)
+* [CAREER](../cv)
+* [PHOTOS](../photos)
+* [GITHUB](https://github.com/chiraghahuja){: target="_blank" rel="noreferrer nofollow"}

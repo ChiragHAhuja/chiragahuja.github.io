@@ -5,92 +5,153 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <script src="assets/javascripts/scale.fix.js" defer async></script>
     <style type="text/css">
-    
-      @font-face {
-        font-family: "Old Standard TT";
-        src: url("../assets/fonts/OldStandardTT-Regular.ttf");
-        font-display: swap;
-      }
-      body {
-          margin: 40px
-          auto;
-          text-align: justify;
-          font-family: Georgia, serif;
-          background-image: url('../assets/images/paper2.jpg');
-          /* background-color: #f1d9d2; */
-          max-width: 650px;
-          line-height: 1.6;
-          font-size: 16px;
-          color: #000;
-          padding: 0
-          10px
-      }
-      
-      hr {
-          margin-left: auto;
-          margin-right: auto;
-          margin-top: 5%;
-          margin-bottom: 0%;
-          text-align: center; /* horizontal centering */
-          border:0;
-      }
+        /* @font-face {
+            font-family: "Old Standard TT";
+            src: url("../assets/fonts/OldStandardTT-Regular.ttf");
+            font-display: swap;
+        } */
 
-      hr:after {
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0%;
-        margin-bottom: 0%;
-        display:contents;
-        content: "*******"; /* section sign */
-      }
-      
-      a:link {
-         color: #003399;
-      } 
-      a:hover {
-          color: #000;
-      }
+        body {
+            margin: 40px auto;
+            text-align: justify;
+            font-family: Georgia, serif;
+            background-image: url('../assets/images/paper2.jpg');
+            /* background-color: #f1d9d2; */
+            max-width: 650px;
+            line-height: 1.6;
+            font-size: 16px;
+            color: #000;
+            padding: 0 10px
+        }
 
-      a:visited {
-         color: #003399;
-      }
-      /* li a {
+        ul li {
+            padding: 1%;
+        }
+
+        hr {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 5%;
+            margin-bottom: 0%;
+            text-align: center;
+            /* horizontal centering */
+            border: 0;
+        }
+
+        hr:after {
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 0%;
+            margin-bottom: 0%;
+            display: contents;
+            content: "*******";
+            /* section sign */
+        }
+
+        a:link {
+            color: #003399;
+        }
+
+        a:hover {
+            color: #000;
+        }
+
+        a:visited {
+            color: #003399;
+        }
+
+        /* li a {
       	font-weight: bold;
       }  */
 
-      h1 {font-size: 2em; font-weight: bolder;}
-      h2 {font-size: 1em;border-bottom: 3px solid silver;margin-top: 5%;}
-      h3 {font-size: 0.85em;}
-      h4 {font-size: 0.7em;}
-      h5 {font-size: 0.6em;}
-      h1, h2, h3, h4, h5 {
-          line-height: 1.2;
-      }
-      h1{
-          text-align: center;
-      }
-      h3,h4,h5{
-          font-weight: normal;
-          text-decoration: underline;
-      }
-      blockquote{
-          font-style: italic;
-          text-align: center;
-          font-size: 1em;
-          font-family: 'Inconsolata'
-      }
-      img {
-          width: 100%;
-          max-height: 400px;
-          max-width: 640px
-      }
-      
-      .footnotes[role="doc-endnotes"] {
-          border-top: 3px solid silver;
-          font-size:x-small;
-      }
+        h1 {
+            font-size: 2em;
+            font-weight: bolder;
+        }
 
+        h2 {
+            font-size: 1em;
+            border-bottom: 3px solid silver;
+            margin-top: 5%;
+        }
+
+        h3 {
+            font-size: 0.85em;
+        }
+
+        h4 {
+            font-size: 0.7em;
+        }
+
+        h5 {
+            font-size: 0.6em;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5 {
+            line-height: 1.2;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        h3,
+        h4,
+        h5 {
+            font-weight: normal;
+            text-decoration: underline;
+        }
+
+        blockquote {
+            font-style: italic;
+            text-align: center;
+            font-size: 1em;
+            font-family: 'Inconsolata'
+        }
+
+        img {
+            width: 100%;
+            max-height: 400px;
+            max-width: 640px
+        }
+
+
+        .caption {
+            text-align: center;
+            font-style: italic;
+        }
+
+        .footnotes[role="doc-endnotes"]::before {
+            margin: 0%;
+            text-decoration: underline;
+            display: contents;
+            font-size: small;
+            content: "Footnotes";
+        }
+
+        .footnotes[role="doc-endnotes"] {
+            margin-top: 6%;
+            margin-bottom: 6%;
+            font-size: small;
+        }
+
+        main {
+            display: flex;
+            flex-direction: column;
+            min-height: 94vh;
+        }
+
+        footer {
+            font-size:x-small;
+            text-align: center;
+            margin-top: auto;
+            border-top: 1px outset;
+            border-color: silver; 
+        }
     </style>
-  </head>
-
+</head>

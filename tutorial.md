@@ -43,8 +43,8 @@ This is a [link](/404.html).
 
 Don't pay attention to this image.
 
-![Sine](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sine_and_Cosine.svg){:async}
-> Viscitudes of life [^2]
+![Sine](https://upload.wikimedia.org/wikipedia/commons/d/d2/Sine_and_Cosine.svg)Viscitudes of life [^2]
+{: .caption}
 
 [^2]: Pretty is subjective
 
@@ -58,5 +58,3 @@ Below is a table.
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
-
-***

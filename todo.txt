@@ -3,19 +3,14 @@
 - bio, linkedin, github
 - career
 - book review
-- disclaimer
-- layouts
 
 - 404 page
-- code highlight
 - mermaid
 - search
 - drafts
-- footnotes
 - seo
 - sitemap
 - robots.txt
-- quote markdown css
 - change permalink to pretty config.yaml
 
 ## reference
@@ -28,6 +23,7 @@
 - https://jonathanjanssens.com/posts/jekyll-inline-css/
 - https://yakczar.com/books/
 - bettermotherfuckingwebsite.com
+
 ## repo structure
 
 - default.html
@@ -40,7 +36,9 @@ Price as a signal
 Donald Trump 2020 election
 Does laws of economics applies to animals? Cheetah, rats etc;
 Getting paid to work out
-
+Peer Review is overrated
+I skate to where people don't realize the puck already is
+Reducers, not consumers or producers
 
 # Jekyll Notes
 

@@ -1,9 +1,14 @@
 ---
 ---
 <!doctype html>
-<html>
+<html lang="en">
     {% include head.html %}
-  <body>
-    {{ content }}
-  </body>
+  <main>
+    <body>
+        {{ content }}
+        {% if page.url != "/disclaimer" %}
+            {%- include footer.html -%}
+        {% endif %}
+    </body>
+  </main>
 </html>
