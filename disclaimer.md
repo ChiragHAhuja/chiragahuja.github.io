@@ -11,7 +11,7 @@ No permission or credit is required to copy or distribute the content of this we
 
 This website does not use browser cookies.
 
-This website and any references to products or services on it are provided "as is" without any warranty or implied term of any kind.
+This website and any references to products or services on it are provided "as is" without any warranty, express or implied.
 
 Any information/publication on this website
 
