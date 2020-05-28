@@ -41,6 +41,7 @@ I skate to where people don't realize the puck already is
 Reducers, not consumers or producers
 The next Zukerberg will be Bezos
 Amazon is dangerously close to being a monopoly in 2 unrelated markets
+"My son works in high tech"
 
 # Jekyll Notes
 
