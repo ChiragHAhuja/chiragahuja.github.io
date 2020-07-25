@@ -10,7 +10,7 @@ layout: default
 
 <br>
 
-* [ARTICLES](../articles)
+* [WRITINGS](../writings)
 * [BOOK REVIEWS](../bookreviews)
 * [CAREER](../cv)
 * [PHOTOS](../photos)
