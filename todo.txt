@@ -12,6 +12,7 @@
 - sitemap
 - robots.txt
 - change permalink to pretty config.yaml
+- explore the pdf option
 
 ## reference
 
@@ -36,12 +37,16 @@ Price as a signal
 Donald Trump 2020 election
 Does laws of economics applies to animals? Cheetah, rats etc;
 Getting paid to work out
-Peer Review is overrated
+Peer Review is overrated https://medium.com/@huixiangvoice/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3, https://news.ycombinator.com/item?id=23459978
 I skate to where people don't realize the puck already is
 Reducers, not consumers or producers
 The next Zukerberg will be Bezos
 Amazon is dangerously close to being a monopoly in 2 unrelated markets
 "My son works in high tech"
+What do you do? Getting paid to be right.
+https://www.youtube.com/watch?v=bzkRVzciAZg
+Rot in academia : https://medium.com/@huixiangvoice/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3, https://news.ycombinator.com/item?id=23459978
+Professor Medium Article Clickbait 
 
 # Jekyll Notes
 
