@@ -13,6 +13,7 @@
 - robots.txt
 - change permalink to pretty config.yaml
 - explore the pdf option
+- emblem: a vulture.
 
 ## reference
 
