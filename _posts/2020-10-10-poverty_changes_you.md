@@ -13,4 +13,4 @@ Lack of a job causes significant financial stress. You start sleeping abnormally
 
 This is the third instance in my adult life that I have experienced such scarcity of food. The first such instance was in my undergraduate days when I had no money, the second time was when I had quit my first job and this time it is due to a pandemic.
 
-With a student loan, 100 dollars in cash and a useless graduate degree to my name, I think I know what money is now. Money represents an endless supply of food. Food and freedom is what money truly represents. Freedom from anxiety, unsolicited opinions, and the ability to work on whatever I find interesting at that moment. And an endless supply of chicken tikka.
+With an unpaid student loan, 100 dollars in cash and a useless graduate degree to my name, I think I know what money is now. Money represents an endless supply of food. Food and freedom is what money truly represents. Freedom from anxiety, unsolicited opinions, and the ability to work on whatever I find interesting at that moment. And an endless supply of chicken tikka.
