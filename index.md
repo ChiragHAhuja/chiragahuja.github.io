@@ -10,8 +10,8 @@ layout: default
 
 <br>
 
-* [WRITINGS](../writings)
-* [BOOK REVIEWS](../bookreviews)
-* [CAREER](../cv)
-* [PHOTOS](../photos)
-* [GITHUB](https://github.com/chiraghahuja){: target="_blank" rel="noreferrer nofollow"}
+* [Writing](../writings)
+* [Book Reviews](../bookreviews)
+* [Career](../cv)
+* [Photos](../photos)
+* [Github](https://github.com/chiraghahuja){: target="_blank" rel="noreferrer nofollow"}
