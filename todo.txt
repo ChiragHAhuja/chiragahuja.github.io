@@ -1,26 +1,17 @@
-- articles
-- photographs
-- bio, linkedin, github
-- career
-- book review
-
-- 404 page
 - mermaid
 - search
-- drafts
 - seo
-- sitemap
-- robots.txt
 - change permalink to pretty config.yaml
 - explore the pdf option
 - emblem: a bloody vulture.
 
 ## reference
 
+- tsowell.com
 - berkshirehathaway.com
 - mnmlst blog
 - minimal mistakes theme webpage
-- tsowell.com
+
 - http://marcelatl.com/meat/
 - https://jonathanjanssens.com/posts/jekyll-inline-css/
 - https://yakczar.com/books/
@@ -29,7 +20,7 @@
 ## repo structure
 
 - default.html
-- pages: homepage.html, articles.html, 
+- pages: homepage.html, writings.html, 
 - posts
 
 
@@ -102,8 +93,10 @@ Thats it. website is done.
 title: Home
 published: false
 layout: blog
+permalink: /apples
 date: 0000-00-00
 mynumber: 5
+tags: jekyll blog github-page
 ---
 <!doctype html>
 <html>

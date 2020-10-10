@@ -1,16 +1,19 @@
 ---
 layout: default
+title: Blog
 ---
-<h1>Latest Posts</h1>
-
 <ul>
-  {% assign total = 0 %}
   {% for post in site.posts %}
-    {% assign total = total | plus: 1 %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
+    <!-- <li> -->
+    <date>{{post.date | date_to_string}}</date> <a href="{{ post.url }}">{{ post.title }}</a>  <br><br>
+    <!-- </li> -->
   {% endfor %}
-  (size: {{ total }})
+  <br>
+  <br>
+  <br>
+  <br>
+  <a style="font-style:italic;color:grey;" href="/feed.xml">
+    <img alt="rss feed" width="12" height="12" srcset="/assets/images/rss.svg">
+  </a>
 </ul>
+

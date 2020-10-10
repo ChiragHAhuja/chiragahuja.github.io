@@ -14,4 +14,4 @@ layout: default
 * [Book Commentaries](../bookreviews)
 * [Bio](../cv)
 * [Photographs](../photos)
-* [Github](https://github.com/chiraghahuja){: target="_blank" rel="noreferrer nofollow"}
+<!-- * [Github](https://github.com/chiraghahuja){: target="_blank" rel="noreferrer nofollow"} -->
