@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Poverty changes you
-permalink: /apple/
+permalink: /povertychangesyou/
 tags: economics
 published: false
 date: 2020-10-10
