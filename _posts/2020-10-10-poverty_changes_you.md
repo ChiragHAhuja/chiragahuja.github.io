@@ -1,40 +1,15 @@
 ---
 layout: blog
-title: Poverty changes you
-permalink: /povertychangesyou/
-tags: economics
+title: Money is food and freedom
+permalink: /moneyisfoodandfreedom/
+tags: economics money food freedom liberty
 published: false
 date: 2020-10-10
 ---
-An apple is a sweet, edible fruit produced by an apple tree.
 
-Apple trees are cultivated worldwide, and are the most widely grown species in
-the genus Malus. The tree originated in Central Asia, where its wild ancestor,
-Malus sieversii, is still found today. Apples have been grown for thousands of
-years in Asia and Europe, and were brought to North America by European
-colonists.
-
-******
 Poverty changes you.
 
-Feedback loop/
+Lack of a job causes significant financial stress. You start sleeping abnormally long hours secretly hoping that if you sleep long enough, anxiety and hunger will magically fade away. Suddenly all the pants you own don't fit anymore because you are starving. Scarcity of food makes you look anemic further hampering your ability to get a job in an appearance oriented culture. You start alienating all your friends because nobody wants to be seen with an unfortunate looking unemployed fellow.
 
-    - no job. nobody gives you a job. experience.
-    - grow ugly. which further hampers your ability to get a job
-    - you just sleep hoping that if you sleep, the hunger will somehow go away.
-    - loose friends since no wants to associate with a ugly person without a job
-    - thin pants wont fit. you look anaemic. thus driving friends/employer further away from you
-
-I think I know what money seems to me now. It represents endless supply of food and freedom. Freedom to work on the problems that I want to work on.
-
-******
-
-2. ugly. no job. food. cycle.
-
-  qhT DOES MONEY MEAN? what does wealth mean?
-
-	when i was struggling was food and was starving during the 3 phases of my life, they were 2 curries a meal (3 meals a day). fucking monsters. lost all my hair due to hunger and anxiety. cycle.
-
-	The highest form of wealth is the freedom & independence to wake up every morning and say "I can do whatever I want today."
-    
-- 100 dollars. education loan.
+This is the third instance in my adult life that I have experienced such scarcity of food.  The first such instance was in my undergraduate days when I had no money,  the second time was when I had quit my first job and this time it is due to a pandemic.
+With a student loan, 100 dollars in cash, and a useless graduate degree to my name, I think I know what money is now. Money to me represents an endless supply of food. Food and freedom is what money truly represents from my vantage point. Freedom from anxiety, unsolicited opinions and ability to work on whatever you find interesting at that point of time. And an endless supply of chicken tikka.
