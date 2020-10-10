@@ -3,7 +3,7 @@ title: Index | chirag.ahuja
 layout: default
 ---
 
-# Chirag Ahuja
+# chirag ahuja
 {: style="margin-bottom:0%; padding-bottom:0%"}
 *Burnaby, BC*
 {: style="text-align: center;margin-top:0%; padding-top:0%"}
