@@ -28,3 +28,13 @@ Feedback loop/
 I think I know what money seems to me now. It represents endless supply of food and freedom. Freedom to work on the problems that I want to work on.
 
 ******
+
+2. ugly. no job. food. cycle.
+
+  qhT DOES MONEY MEAN? what does wealth mean?
+
+	when i was struggling was food and was starving during the 3 phases of my life, they were 2 curries a meal (3 meals a day). fucking monsters. lost all my hair due to hunger and anxiety. cycle.
+
+	The highest form of wealth is the freedom & independence to wake up every morning and say "I can do whatever I want today."
+    
+- 100 dollars. education loan.
