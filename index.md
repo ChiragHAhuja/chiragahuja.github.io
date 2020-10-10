@@ -11,7 +11,7 @@ layout: default
 <br>
 
 * [Writing](../writings)
-* [Book Review](../bookreviews)
+* [Book Commentaries](../bookreviews)
 * [Bio](../cv)
-* [Photos](../photos)
+* [Photographs](../photos)
 * [Github](https://github.com/chiraghahuja){: target="_blank" rel="noreferrer nofollow"}
